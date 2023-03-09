@@ -91,7 +91,7 @@ ex)
 {{ 데이터이름 }} 콧수염기호<br>
 html속성도 데이터 바인딩 가능<br>
 :속성 = '데이터이름'<br>
-ex)<h3 :style='스타일'> 이름</h3><br><br><br>
+ex)<tag :style='스타일'> 이름</tag><br><br><br>
 # vue 반복문<br><br>
 <태그 v-for="작명 in 몇회"><br>
  <a v-for="작명 in 3" :key="작명">Home</a> <br>
