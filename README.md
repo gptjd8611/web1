@@ -67,7 +67,7 @@ wep-app만들때 사용
 html렌더링빠름<br>
 업데이트 잘됨 vue3버전 쓸거임<br>
 코드는 App,vue에다가 짜면됨<br>
-<template>안에는 html 짜고<br>
+<template 안에는 html 짜고<br>
 <script>안에는 js짜고<br>
 <style>안에는 css 짬<br>
 node.js 16버전 사용 하고잇음<br>
